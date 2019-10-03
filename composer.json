@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/proxiblue-newrelic",
+    "name": "openmage-module-fostering\/proxiblue-newrelic",
     "type": "magento-module",
     "license": "Custom-License",
     "homepage": "",
